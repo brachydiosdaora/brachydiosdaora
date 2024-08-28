@@ -1,9 +1,3 @@
-## I need a job.
-**Currently learning and/or working with:** rLua, discord.py, Godot (C++) n\
-**Can (somewhat) do:** Java 17&21, Spring Boot, MySQL, MongoDB/MongoExpress
-
-**I like:** Monster Hunter, Library of Ruina, 3D Modelling 
-
 ⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿⣿ \
 ⣿⣿⣿⣿⣿⣿⣿⠟⠋⠉⠉⠉⠉⠉⠛⠻⠛⠉⠉⠛⠉⠻⢿⣿⣿⣿⣿⣿⣿ \
 ⣿⣿⣿⣿⣿⣿⠃⠄⣠⡶⢶⣶⣄⠄⠄⠄⢀⣴⣶⣶⣄⠄⠈⠻⣿⣿⣿⣿⣿ \
